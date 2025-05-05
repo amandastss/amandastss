@@ -1,16 +1,24 @@
-## Hi there 👋
+#
 
-<!--
-**amandastss/amandastss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<section id="welcome" style="display: grid; justify-content: center; text-align: center;">
 
-Here are some ideas to get you started:
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=38&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Amanda;I'm+16+years+old;I+am+from+Joinville,+SC;)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</section>
+
+<div>
+  <a href="https://github.com/amandastss">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandastss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandastss&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
+##
+
+<div>
+  <a href="https://instagram.com/amanda.andradests" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/amanda-eduarda-andrade-dos-santos-9934962bb" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</div>
